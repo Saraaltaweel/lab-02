@@ -1,12 +1,12 @@
 img{
     width: 120px;
     height: 120px;
-    
+    border: 3px solid rgb(163, 17, 17);
 
 }
 section{
     float: left;
-    border: 1px solid black;
+   
     margin: 30px;
     font-family: cursive;
     font-size: 15px;
