@@ -1,0 +1,19 @@
+img{
+    width: 120px;
+    height: 120px;
+    
+
+}
+section{
+    float: left;
+    border: 1px solid black;
+    margin: 30px;
+    font-family: cursive;
+    font-size: 15px;
+    text-align: center;
+    width: 170px;
+    height: 150px;
+}
+
+
+

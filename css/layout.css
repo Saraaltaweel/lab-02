@@ -1,0 +1,12 @@
+header{
+    margin: 20px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+footer{
+    clear: both;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
